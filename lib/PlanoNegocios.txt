@@ -1,0 +1,16 @@
+- Página inicial 
+    - Tela para cadastro de produtos (botões)
+    - Tela para listar produtos (botões)
+
+- Página de cadastro 
+    - Formulário
+      - Id dos produtos (SERIAL)
+      - Nome dos produtos (TEXT)
+      - Descrição dos produtos (TEXT)
+      - Quantidade (INT)
+      - Foto dos produtos (INT)
+      - Preço dos produtos (DOUBLE)
+      - Categorias dos produtos
+
+- Página de listar (A se desenvolver)
+    - Clicar nos produtos => Abre as informações dos produtos
